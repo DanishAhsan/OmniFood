@@ -22,8 +22,10 @@ provided by Omnifood in form of a text document and a couple of images.
 Navigation:
 Also provided by Omnifood in a text document.
 
+## 3.My Role
+As a key member of the development team, I was actively involved in the end-to-end creation. My responsibilities encompassed building code with JavaScript, HTML, JQuery, ensuring the system's smooth functioning, and ensuring the collaborating with the user interface.
 
-## 3.Design
+## 4.Design
 
 Color: flat orange - friendly, confident, courage,
 Font: LATO typeface -warm, stabiilty, serious but friendly
